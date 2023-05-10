@@ -3,3 +3,6 @@ def hola_mundo(n:str) -> str:
     
 def resta(n:int, m:int) -> int:
     return n - m
+
+def suma_y_resta(n:int, m:int) -> int:
+    return n - m + n
